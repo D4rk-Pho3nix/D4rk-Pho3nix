@@ -1,8 +1,17 @@
-<img width="12412" height="4293" alt="d4rkpho3nix_profile_tui" src="https://github.com/user-attachments/assets/d077b7ef-fab0-4c93-89eb-beb642d30c5d" />
+<img width="12395" height="4141" alt="d4rkpho3nix_profile_tui" src="https://github.com/user-attachments/assets/b801707f-9bc4-4f31-99a0-7c28cfc9e5cb" />
 
 
-### Holopins & Badges 🪶
+<div align="center">
+
+<details>
+<summary><h3>Holopins & Badges 🪶</h3></summary>
+
 [![An image of @d4rkpho3nix's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/d4rkpho3nix)](https://holopin.io/@d4rkpho3nix)
+
+
+</details>
+
+</div>
 
 ### 🎮 Let's play Pokémon together~
 <img src="https://toy.cloudreve.org/image" width="300"/> 
