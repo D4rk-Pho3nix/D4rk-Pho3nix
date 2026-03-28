@@ -1,4 +1,5 @@
-<img width="12460" height="4293" alt="d4rkpho3nix_profile_tui" src="https://github.com/user-attachments/assets/3c867e5f-1929-4c44-9fec-50741a119540" />
+<img width="12412" height="4293" alt="d4rkpho3nix_profile_tui" src="https://github.com/user-attachments/assets/d077b7ef-fab0-4c93-89eb-beb642d30c5d" />
+
 
 ### Holopins & Badges 🪶
 [![An image of @d4rkpho3nix's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/d4rkpho3nix)](https://holopin.io/@d4rkpho3nix)
