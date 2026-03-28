@@ -1,5 +1,4 @@
 <img width="12395" height="4141" alt="d4rkpho3nix_profile_tui" src="https://github.com/user-attachments/assets/b801707f-9bc4-4f31-99a0-7c28cfc9e5cb" />
-<img width="4276" height="4320" alt="Untitled (41) (1) (1) (1)" src="" />
 
 <div align="center">
 
@@ -29,7 +28,9 @@
 
 </div>
 
-### 🎮 Let's play Pokémon together~
+<h3><img src="https://github.com/user-attachments/assets/0e2cfeed-fa74-4f89-8121-d3f5bfab3afc" width="35" align="absmiddle"/> Let's play Pokémon together~</h3>
+
+
 <img src="https://toy.cloudreve.org/image" width="300"/> 
 
 <img src="https://github.com/user-attachments/assets/542f986b-c300-4a96-8efb-08b0ed8d8332" width="30"/><a href="https://toy.cloudreve.org/control?button=2&callback=https://github.com/D4rk-Pho3nix"><img src="https://github.com/user-attachments/assets/94cea974-9b43-4123-b6bb-aecde9414816" width="30"/></a>
