@@ -1,5 +1,7 @@
 <img width="2717" height="1329" alt="d4rkpho3nix_profile_tui" src="https://github.com/user-attachments/assets/07c5683f-f383-4704-88c5-3c72c3ce051a" />
 
+[![An image of @d4rkpho3nix's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/d4rkpho3nix)](https://holopin.io/@d4rkpho3nix)'
+
 ### 🎮 Let's play Pokémon together~
 <img src="https://toy.cloudreve.org/image" width="300"/> 
 
