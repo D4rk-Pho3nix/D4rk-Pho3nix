@@ -1,4 +1,4 @@
-<img width="2717" height="1329" alt="asasas" src="https://github.com/user-attachments/assets/c74fdefc-da0c-43c1-a5e2-0eab0881ef87" />
+<img width="12460" height="4293" alt="d4rkpho3nix_profile_tui" src="https://github.com/user-attachments/assets/3c867e5f-1929-4c44-9fec-50741a119540" />
 
 ### Holopins & Badges 🪶
 [![An image of @d4rkpho3nix's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/d4rkpho3nix)](https://holopin.io/@d4rkpho3nix)
