@@ -1,4 +1,5 @@
-<img width="8996" height="4303" alt="d4rkpho3nix profile tui" src="https://github.com/user-attachments/assets/feda7b98-462a-4f03-b14f-c5ca67cced73" />
+<img width="2717" height="1329" alt="d4rkpho3nix_profile_tui" src="https://github.com/user-attachments/assets/07c5683f-f383-4704-88c5-3c72c3ce051a" />
+
 
 
 ### 🎮 Let's play Pokémon together~
