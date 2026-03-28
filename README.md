@@ -1,8 +1,5 @@
 <img width="2717" height="1329" alt="d4rkpho3nix_profile_tui" src="https://github.com/user-attachments/assets/07c5683f-f383-4704-88c5-3c72c3ce051a" />
 
-<img width="4276" height="4320" alt="Up_Button" src="https://github.com/user-attachments/assets/57cf5cc9-902a-4989-b95d-201c786c7e4c" />
-
-
 ### 🎮 Let's play Pokémon together~
 <img src="https://toy.cloudreve.org/image" width="300"/> 
 
