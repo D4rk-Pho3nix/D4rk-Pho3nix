@@ -8,6 +8,22 @@
 
 [![An image of @d4rkpho3nix's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/d4rkpho3nix)](https://holopin.io/@d4rkpho3nix)
 
+<!-- GSSoC Badges -->
+<div align="center">
+
+### 🏅 GSSoC '24 Badges
+
+| Explorer | Adventurer | Trailblazer | Summit Seeker | Champion | Innovator | Conqueror |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" /> | <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" /> | <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" /> | <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" /> | <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" /> | <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" /> | <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" /> |
+
+<br>
+
+| Git Explorer | Pull Expert | Code Luminary |
+|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" /> | <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /> | <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" /> |
+
+</div>
 
 </details>
 
