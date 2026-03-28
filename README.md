@@ -29,13 +29,75 @@
 </div>
 
 <h3><img src="https://github.com/user-attachments/assets/0e2cfeed-fa74-4f89-8121-d3f5bfab3afc" width="35" align="absmiddle"/> Let's play Pokémon together~</h3>
-
-
-<img src="https://toy.cloudreve.org/image" width="300"/> 
-
-<img src="https://github.com/user-attachments/assets/542f986b-c300-4a96-8efb-08b0ed8d8332" width="30"/><a href="https://toy.cloudreve.org/control?button=2&callback=https://github.com/D4rk-Pho3nix"><img src="https://github.com/user-attachments/assets/94cea974-9b43-4123-b6bb-aecde9414816" width="30"/></a>
-<br><a href="https://toy.cloudreve.org/control?button=1&callback=https://github.com/D4rk-Pho3nix"><img src="https://github.com/user-attachments/assets/9508f551-af0a-48a6-a4c0-a3b78effd889" width="30"/></a><img src="https://github.com/user-attachments/assets/542f986b-c300-4a96-8efb-08b0ed8d8332" width="30"/><a href="https://toy.cloudreve.org/control?button=0&callback=https://github.com/D4rk-Pho3nix"><img src="https://github.com/user-attachments/assets/382d2b5d-fd90-4eb1-9571-44dc685907d5" width="30"/></a><img src="https://github.com/user-attachments/assets/542f986b-c300-4a96-8efb-08b0ed8d8332" width="30"/><img src="https://github.com/user-attachments/assets/542f986b-c300-4a96-8efb-08b0ed8d8332" width="30"/><img src="https://github.com/user-attachments/assets/542f986b-c300-4a96-8efb-08b0ed8d8332" width="30"/><a href="https://toy.cloudreve.org/control?button=5&callback=https://github.com/D4rk-Pho3nix"><img src="https://github.com/user-attachments/assets/5376339d-4c83-4477-ada2-7d93a221aabd" width="35"/></a> <a href="https://toy.cloudreve.org/control?button=4&callback=https://github.com/D4rk-Pho3nix"><img src="https://github.com/user-attachments/assets/86e28b80-fe69-4ec3-9da0-4effb3c56b6a" width="35"/></a>
-<br><a href="https://toy.cloudreve.org/control?button=3&callback=https://github.com/D4rk-Pho3nix"><img src="https://github.com/user-attachments/assets/542f986b-c300-4a96-8efb-08b0ed8d8332" width="30"/><img src="https://github.com/user-attachments/assets/52049e6f-e990-4f36-b483-7b924e15c2dc" width="30"/></a>
-<br><img src="https://github.com/user-attachments/assets/542f986b-c300-4a96-8efb-08b0ed8d8332" width="30"/><img src="https://github.com/user-attachments/assets/542f986b-c300-4a96-8efb-08b0ed8d8332" width="30"/><a href="https://toy.cloudreve.org/control?button=6&callback=https://github.com/D4rk-Pho3nix"><img src="https://github.com/user-attachments/assets/64543bdc-7df7-4422-ae22-45ff55bd145f" width="65"/></a><a href="https://toy.cloudreve.org/control?button=7&callback=https://github.com/D4rk-Pho3nix"><img src="https://github.com/user-attachments/assets/dacdb3f3-7171-4dd9-af7c-59c4ee26d37c" width="63" /></a>
-
------
+<div align="left">
+<table border="2" cellpadding="12" cellspacing="0">
+  <!-- SCREEN -->
+  <tr>
+    <td align="center">
+      <img src="https://toy.cloudreve.org/image" width="300"/>
+    </td>
+  </tr>
+  <!-- CONTROLS -->
+  <tr>
+    <td align="center">
+      <table border="0" cellpadding="6" cellspacing="0">
+        <tr>
+          <!-- D-PAD (cellpadding="0" for full-fill arrows) -->
+          <td align="center" valign="middle">
+            <table border="0" cellpadding="0" cellspacing="0">
+              <tr>
+                <td width="55"></td>
+                <td align="center">
+                  <a href="https://toy.cloudreve.org/control?button=2&callback=https://github.com/D4rk-Pho3nix">
+                    <img src="https://github.com/user-attachments/assets/94cea974-9b43-4123-b6bb-aecde9414816" width="55"/>
+                  </a>
+                </td>
+                <td width="55"></td>
+              </tr>
+              <tr>
+                <td align="center">
+                  <a href="https://toy.cloudreve.org/control?button=1&callback=https://github.com/D4rk-Pho3nix">
+                    <img src="https://github.com/user-attachments/assets/9508f551-af0a-48a6-a4c0-a3b78effd889" width="55"/>
+                  </a>
+                </td>
+                <td width="55"></td>
+                <td align="center">
+                  <a href="https://toy.cloudreve.org/control?button=0&callback=https://github.com/D4rk-Pho3nix">
+                    <img src="https://github.com/user-attachments/assets/382d2b5d-fd90-4eb1-9571-44dc685907d5" width="55"/>
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td width="55"></td>
+                <td align="center">
+                  <a href="https://toy.cloudreve.org/control?button=3&callback=https://github.com/D4rk-Pho3nix">
+                    <img src="https://github.com/user-attachments/assets/52049e6f-e990-4f36-b483-7b924e15c2dc" width="55"/>
+                  </a>
+                </td>
+                <td width="55"></td>
+              </tr>
+            </table>
+          </td>
+          <td width="80"></td>
+          <!-- A/B BUTTONS -->
+          <td align="center" valign="middle">
+            <a href="https://toy.cloudreve.org/control?button=5&callback=https://github.com/D4rk-Pho3nix">
+              <img src="https://github.com/user-attachments/assets/57a31b74-b06a-4fef-b6f4-c15a374326b5" width="50"/>
+            </a>
+            <br>
+            <a href="https://toy.cloudreve.org/control?button=4&callback=https://github.com/D4rk-Pho3nix">
+              <img src="https://github.com/user-attachments/assets/be0f42d5-d03e-41ed-bc58-3201162bc595" width="50"/>
+            </a>
+          </td>
+        </tr>
+        <!-- SELECT / START -->
+        <tr>
+          <td colspan="3" align="center"><br>
+            <a href="https://toy.cloudreve.org/control?button=6&callback=https://github.com/D4rk-Pho3nix"><img src="https://github.com/user-attachments/assets/64543bdc-7df7-4422-ae22-45ff55bd145f" width="65"/></a><a href="https://toy.cloudreve.org/control?button=7&callback=https://github.com/D4rk-Pho3nix"><img src="https://github.com/user-attachments/assets/dacdb3f3-7171-4dd9-af7c-59c4ee26d37c" width="63"/></a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</div>
