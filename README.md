@@ -1,4 +1,5 @@
-<img width="11752" height="5504" alt="github-profile-final (2)" src="https://github.com/user-attachments/assets/bf0010fa-0bc3-43f2-aa08-deacdc931295" />
+<img width="8996" height="4303" alt="d4rkpho3nix profile tui" src="https://github.com/user-attachments/assets/feda7b98-462a-4f03-b14f-c5ca67cced73" />
+
 
 ### 🎮 Let's play Pokémon together~
 <img src="https://toy.cloudreve.org/image" width="300"/> 
