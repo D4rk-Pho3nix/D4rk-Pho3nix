@@ -74,7 +74,7 @@
   </tr>
 </table>
 <div align="right" valign="middle">
-<h3>‎<img src="https://github.com/user-attachments/assets/38a6ff5a-29fb-44b2-b7c8-f509c677736d" width="40" align="absmiddle"/> Stats & Socials :3  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎ </h3>
+<h3>‎<img src="https://github.com/user-attachments/assets/38a6ff5a-29fb-44b2-b7c8-f509c677736d" width="40" align="absmiddle"/> Stats & Socials :3  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎      ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎ </h3>
 <img src="https://github-readme-stats-dply.vercel.app/api?username=D4rk-Pho3nix&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" height="175" alt="stats" />‎‎ ‎ ‎ ‎<br>
 <br>
 <img src="https://github-profile-repo.vercel.app/?username=D4rk-Pho3nix&theme=gruvbox&row=1&column=4" height="175" alt="trophies" /><br>
