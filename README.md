@@ -90,8 +90,10 @@
 <br>
 <br>
 
-##### Here is a live ASCII chart of my WakaTime coding hours from the last 30 days 🕒
+<div align="center">
 
+<details>
+<summary><h3>Stats ⚙️</h3></summary>
 ```
 # ⏱️ WakaTime Coding Hours (Last 30 Days) #
 
@@ -115,4 +117,4 @@ Hours Coded
     0.11 ┤                            │
     0.00 ┼────────────────────────────╯
 
-Chart last updated - Mon Apr 13 08:24:44 EDT 2026```
+Chart last updated - Mon Apr 13 08:36:07 EDT 2026```
