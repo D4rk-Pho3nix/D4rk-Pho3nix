@@ -94,5 +94,6 @@
 
 <details>
 <summary><h3>Stats ⚙️</h3></summary>
+</div>
   
 ```
