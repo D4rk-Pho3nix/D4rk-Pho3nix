@@ -118,8 +118,4 @@ Hours Coded
     0.11 ┤                            │
     0.00 ┼────────────────────────────╯
 
-Chart last updated - Mon Apr 13 08:38:38 EDT 2026```
-
-</details>
-
-</div>
+Chart last updated - Mon Apr 13 08:42:57 EDT 2026```
