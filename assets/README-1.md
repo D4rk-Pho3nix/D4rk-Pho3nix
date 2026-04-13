@@ -90,10 +90,7 @@
 <br>
 <br>
 
-<div align="center">
-
 <details>
-<summary><h3>Hours Logged 💾</h3></summary>
-</div>
+<summary align="center"><h3>Coding Hours 📈</h3></summary>
   
 ```
