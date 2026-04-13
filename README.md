@@ -93,7 +93,8 @@
 <div align="center">
 
 <details>
-<summary><h3>Stats ⚙️</h3></summary>
+<summary><h3>Hours Logged 💾</h3></summary>
+</div>
   
 ```
 # ⏱️ WakaTime Coding Hours (Last 30 Days) #
@@ -118,4 +119,4 @@ Hours Coded
     0.11 ┤                            │
     0.00 ┼────────────────────────────╯
 
-Chart last updated - Mon Apr 13 08:42:57 EDT 2026```
+Chart last updated - Mon Apr 13 08:51:25 EDT 2026```
