@@ -90,6 +90,8 @@
 <br>
 <br>
 
-##### Here is a live ASCII chart of my WakaTime coding hours from the last 30 days 🕒
+<div align="center">
 
+<details>
+<summary><h3>Stats ⚙️</h3></summary>
 ```
