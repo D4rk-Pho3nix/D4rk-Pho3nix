@@ -85,8 +85,7 @@ def main():
 
     chart = ac.plot(daily_hours, chart_config)
 
-    print(f"# ⏱️ WakaTime Coding Hours (Last {NDAYS} Days) #\n")
-    print(f"**Activity Profile:** {classifier}\n")
+    print(f"# 💾 Coding Hours - Last {NDAYS} Days #\n")
     print("Hours Coded")
     print(chart)
 
