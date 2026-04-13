@@ -90,33 +90,29 @@
 <br>
 <br>
 
-<div align="center">
-
 <details>
-<summary><h3>Hours Logged 💾</h3></summary>
-</div>
+<summary align="center"><h3>Coding Hours 📈</h3></summary>
   
 ```
-# ⏱️ WakaTime Coding Hours (Last 30 Days) #
-
-**Activity Profile:** Early Bird 🌅
+# 💾 Coding Hours - Last 30 Days #
 
 Hours Coded
-    1.61 ┼                            ╭
-    1.50 ┤                            │
-    1.39 ┤                            │
-    1.29 ┤                            │
-    1.18 ┤                            │
-    1.07 ┤                            │
-    0.97 ┤                            │
-    0.86 ┤                            │
-    0.75 ┤                            │
-    0.64 ┤                            │
-    0.54 ┤                            │
-    0.43 ┤                            │
-    0.32 ┤                            │
-    0.21 ┤                            │
+    1.67 ┼                            ╭
+    1.56 ┤                            │
+    1.45 ┤                            │
+    1.34 ┤                            │
+    1.23 ┤                            │
+    1.12 ┤                            │
+    1.00 ┤                            │
+    0.89 ┤                            │
+    0.78 ┤                            │
+    0.67 ┤                            │
+    0.56 ┤                            │
+    0.45 ┤                            │
+    0.33 ┤                            │
+    0.22 ┤                            │
     0.11 ┤                            │
     0.00 ┼────────────────────────────╯
 
-Chart last updated - Mon Apr 13 08:51:25 EDT 2026```
+Chart last updated - Mon Apr 13 09:04:41 EDT 2026
+```
