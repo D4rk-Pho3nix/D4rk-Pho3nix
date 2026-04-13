@@ -93,7 +93,7 @@
 <div align="center">
 
 <details>
-<summary><h3>Hours Logged ⏳</h3></summary>
+<summary><h3>Hours Logged 💾</h3></summary>
 </div>
   
 ```
