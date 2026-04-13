@@ -1,3 +1,6 @@
+# Create GH_TOKEN_1 at github.com/settings/tokens (repo read/write + workflow)
+# Add WAKATIME_API_KEY from wakatime.com/settings/account (Secret API Key)
+
 name: Update Readme WakaTime chart with random cron interval
 on:
   push:
@@ -7,6 +10,7 @@ on:
       - .github/workflows/rating-chart.yml
   schedule:
     - cron: "0 */3 * * *"
+  workflow_dispatch:
 jobs:
   wakatime-chart:
     runs-on: ubuntu-latest
